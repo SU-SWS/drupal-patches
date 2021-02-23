@@ -41,6 +41,9 @@
             "drupal/paragraphs": {
                 "https://www.drupal.org/project/paragraphs/issues/2901390": "https://www.drupal.org/files/issues/2020-06-25/paragraphs-2901390-51.patch"
             },
+            "drupal/path_redirect_import": {
+                "https://www.drupal.org/project/path_redirect_import/issues/3153871": "https://www.drupal.org/files/issues/2020-06-22/path_redirect_import-d9-3153871-4.patch"
+            },
             "drupal/simplesamlphp_auth": {
                 "https://www.drupal.org/project/simplesamlphp_auth/issues/2936889": "https://www.drupal.org/files/issues/2020-07-31/simplesamlphp_auth-avoid_unexpected_redirect-2936889-12-d8.patch"
             },
