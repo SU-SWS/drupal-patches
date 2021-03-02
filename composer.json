@@ -48,7 +48,7 @@
                 "https://www.drupal.org/project/simplesamlphp_auth/issues/2936889": "https://www.drupal.org/files/issues/2020-07-31/simplesamlphp_auth-avoid_unexpected_redirect-2936889-12-d8.patch"
             },
             "drupal/smart_date": {
-                "https://www.drupal.org/project/smart_date/issues/3154741": "https://www.drupal.org/files/issues/2020-06-24/smart_date-anon-no-timezone-1.patch"
+                "https://www.drupal.org/project/smart_date/issues/3154741": "https://www.drupal.org/files/issues/2021-03-02/3154741-user-timezone_3.1.x-3.patch"
             },
             "drupal/views_taxonomy_term_name_depth": {
                 "https://www.drupal.org/project/views_taxonomy_term_name_depth/issues/2877249": "https://www.drupal.org/files/issues/2021-02-11/2877249-26.patch"
