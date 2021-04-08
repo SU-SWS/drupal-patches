@@ -50,7 +50,7 @@
                 "https://www.drupal.org/project/smart_date/issues/3154741": "https://www.drupal.org/files/issues/2020-06-24/smart_date-anon-no-timezone-1.patch"
             },
             "drupal/views_taxonomy_term_name_depth": {
-                "https://www.drupal.org/project/views_taxonomy_term_name_depth/issues/2877249": "https://www.drupal.org/files/issues/2021-04-07/2877249-29.patch"
+                "https://www.drupal.org/project/views_taxonomy_term_name_depth/issues/2877249": "https://www.drupal.org/files/issues/2021-04-07/2877249-30.patch"
             }
         }
     }
