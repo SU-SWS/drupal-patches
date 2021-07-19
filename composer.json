@@ -23,7 +23,8 @@
                 "https://www.drupal.org/project/drupal/issues/3106718": "https://www.drupal.org/files/issues/2020-01-16/3106718-image-hal-3.patch",
                 "https://www.drupal.org/project/drupal/issues/2577923": "https://www.drupal.org/files/issues/2020-06-11/2577923-128.patch",
                 "https://www.drupal.org/project/drupal/issues/2353611": "https://www.drupal.org/files/issues/2019-10-15/drupal-link_uuid-2353611-262.patch",
-                "https://www.drupal.org/project/drupal/issues/3195543": "https://git.drupalcode.org/project/drupal/-/merge_requests/278.patch"
+                "https://www.drupal.org/project/drupal/issues/3195543": "https://git.drupalcode.org/project/drupal/-/merge_requests/278.patch",
+                "https://www.drupal.org/project/drupal/issues/3222168": "https://git.drupalcode.org/project/drupal/commit/cfafb87.diff"
             },
             "drupal/default_content": {
                 "https://www.drupal.org/project/default_content/issues/2698425": "https://www.drupal.org/files/issues/2020-09-02/default_content-integrity_constrait_violation-3162987-2.patch"
