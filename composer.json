@@ -35,6 +35,9 @@
             "drupal/fakeobjects": {
                 "https://www.drupal.org/project/fakeobjects/issues/3002953": "https://www.drupal.org/files/issues/2020-06-22/fakeobjects-missing_plugin-3002953-5.patch"
             },
+            "drupal/google_analytics": {
+                "https://www.drupal.org/project/google_analytics/issues/3178179": "https://www.drupal.org/files/issues/2020-12-01/3178179-google-analytics-4.patch"
+            },
             "drupal/menu_link_weight": {
                 "https://www.drupal.org/project/menu_link_weight/issues/2956341": "https://www.drupal.org/files/issues/2018-03-27/menu_link_weight-js_error_on_title_field-2956341-2.patch",
                 "https://www.drupal.org/project/menu_link_weight/issues/2995896": "https://www.drupal.org/files/issues/2018-08-29/2995896-menu-admin-per-menu-support-fixes.patch",
