@@ -46,6 +46,9 @@
             "drupal/paragraphs": {
                 "https://www.drupal.org/project/paragraphs/issues/2901390": "https://www.drupal.org/files/issues/2020-06-25/paragraphs-2901390-51.patch"
             },
+            "drupal/paragraphs_edit": {
+                "https://www.drupal.org/project/paragraphs_edit/issues/2944653": "https://www.drupal.org/files/issues/2021-04-15/paragraphs_edit-getname-on-null-2944653-11.patch"  
+            },
             "drupal/path_redirect_import": {
                 "https://www.drupal.org/project/path_redirect_import/issues/3153871": "https://www.drupal.org/files/issues/2020-06-22/path_redirect_import-d9-3153871-4.patch"
             },
