@@ -51,9 +51,6 @@
             "drupal/simplesamlphp_auth": {
                 "https://www.drupal.org/project/simplesamlphp_auth/issues/2936889": "https://www.drupal.org/files/issues/2020-07-31/simplesamlphp_auth-avoid_unexpected_redirect-2936889-12-d8.patch"
             },
-            "drupal/smart_date": {
-                "https://www.drupal.org/project/smart_date/issues/3154741": "https://www.drupal.org/files/issues/2020-06-24/smart_date-anon-no-timezone-1.patch"
-            },
             "drupal/views_infinite_scroll": {
                 "https://www.drupal.org/project/views_infinite_scroll/issues/3094488": "https://www.drupal.org/files/issues/2020-04-14/3094488-2.patch",
                 "https://www.drupal.org/project/views_infinite_scroll/issues/3252577": "https://www.drupal.org/files/issues/2021-12-12/views_infinite_scroll-3252577-9.2.x_support_3.patch",
