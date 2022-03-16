@@ -52,6 +52,9 @@
             "drupal/paragraphs_edit": {
                 "https://www.drupal.org/project/paragraphs_edit/issues/2944653": "https://www.drupal.org/files/issues/2021-04-15/paragraphs_edit-getname-on-null-2944653-11.patch"  
             },
+            "drupal/shs": {
+                "https://www.drupal.org/project/shs/issues/3241169": "https://www.drupal.org/files/issues/2022-02-28/shs-Error_saving_null_empty_value_after_2.0.0-rc1_update-3241169-36.patch"
+            },
             "drupal/simplesamlphp_auth": {
                 "https://www.drupal.org/project/simplesamlphp_auth/issues/2936889": "https://www.drupal.org/files/issues/2020-07-31/simplesamlphp_auth-avoid_unexpected_redirect-2936889-12-d8.patch"
             },
