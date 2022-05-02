@@ -46,6 +46,9 @@
                 "https://www.drupal.org/project/menu_link_weight/issues/2995896": "https://www.drupal.org/files/issues/2018-08-29/2995896-menu-admin-per-menu-support-fixes.patch",
                 "https://www.drupal.org/project/menu_link_weight/issues/3099139": "https://www.drupal.org/files/issues/2019-12-05/menu_link_weight-target_blank-3099139.patch"
             },
+            "drupal/oembed_providers":{
+                "https://www.drupal.org/project/oembed_providers/issues/3278161": "https://git.drupalcode.org/project/oembed_providers/-/merge_requests/6.patch"
+            },
             "drupal/paragraphs": {
                 "https://www.drupal.org/project/paragraphs/issues/2901390": "https://www.drupal.org/files/issues/2020-06-25/paragraphs-2901390-51.patch"
             },
