@@ -45,8 +45,6 @@
                 "https://www.drupal.org/project/google_analytics/issues/3246597": "https://www.drupal.org/files/issues/2021-11-25/google_analytics-3246597-7.patch"
             },
             "drupal/menu_link_weight": {
-                "https://www.drupal.org/project/menu_link_weight/issues/2956341": "https://www.drupal.org/files/issues/2018-03-27/menu_link_weight-js_error_on_title_field-2956341-2.patch",
-                "https://www.drupal.org/project/menu_link_weight/issues/2995896": "https://www.drupal.org/files/issues/2018-08-29/2995896-menu-admin-per-menu-support-fixes.patch",
                 "https://www.drupal.org/project/menu_link_weight/issues/3099139": "https://www.drupal.org/files/issues/2019-12-05/menu_link_weight-target_blank-3099139.patch"
             },
             "drupal/paragraphs": {
