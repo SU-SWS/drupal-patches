@@ -7,7 +7,8 @@
     "require": {},
     "conflict": {
         "drupal/views_infinite_scroll": "<2.0.0",
-        "drupal/google_analytics": "<4.0.0"
+        "drupal/google_analytics": "<4.0.0",
+        "drupal/field_encrypt": "<3.0.0"
     },
     "extra": {
         "enable-patching": true,
@@ -41,6 +42,9 @@
             },
             "drupal/fakeobjects": {
                 "https://www.drupal.org/project/fakeobjects/issues/3002953": "https://www.drupal.org/files/issues/2020-06-22/fakeobjects-missing_plugin-3002953-5.patch"
+            },
+            "drupal/field_encrypt": {
+                "https://www.drupal.org/project/field_encrypt/issues/3299175": "https://git.drupalcode.org/project/field_encrypt/-/merge_requests/31.patch"  
             },
             "drupal/google_analytics": {
                 "https://www.drupal.org/project/google_analytics/issues/3246597": "https://www.drupal.org/files/issues/2021-11-25/google_analytics-3246597-7.patch"
