@@ -8,7 +8,8 @@
     "conflict": {
         "drupal/views_infinite_scroll": "<2.0.0",
         "drupal/google_analytics": "<4.0.0",
-        "drupal/field_encrypt": "<3.0.0"
+        "drupal/field_encrypt": "<3.0.0",
+        "drupal/config_ignore": "<3.0.0"
     },
     "extra": {
         "enable-patching": true,
@@ -18,9 +19,6 @@
             },
             "drupal/colorbox": {
                 "https://www.drupal.org/project/colorbox/issues/3278470": "https://git.drupalcode.org/project/colorbox/-/merge_requests/14.patch"  
-            },
-            "drupal/config_ignore": {
-                "https://www.drupal.org/project/config_ignore/issues/2865419": "https://www.drupal.org/files/issues/2020-06-21/config_ignore-wildcard_force-14.patch"
             },
             "drupal/config_readonly": {
                 "https://www.drupal.org/project/config_readonly/issues/2892631": "https://www.drupal.org/files/issues/2018-04-01/config-readonly-2892631-18.patch"
