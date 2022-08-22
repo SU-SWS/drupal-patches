@@ -9,7 +9,7 @@
         "drupal/views_infinite_scroll": "<2.0.0",
         "drupal/google_analytics": "<4.0.0",
         "drupal/field_encrypt": "<3.0.0",
-        "drupal/config_ignore": "<3.0.0"
+        "drupal/config_ignore": "<3.0.0-beta1"
     },
     "extra": {
         "enable-patching": true,
