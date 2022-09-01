@@ -26,6 +26,9 @@
             "drupal/config_readonly": {
                 "https://www.drupal.org/project/config_readonly/issues/2892631": "https://www.drupal.org/files/issues/2018-04-01/config-readonly-2892631-18.patch"
             },
+            "drupal/content_lock": {
+                "https://www.drupal.org/project/content_lock/issues/3307402": "https://git.drupalcode.org/project/content_lock/-/merge_requests/11.patch"  
+            },
             "drupal/core": {
                 "https://www.drupal.org/project/drupal/issues/2807629": "https://www.drupal.org/files/issues/2021-07-09/2807629-45.patch",
                 "https://www.drupal.org/project/drupal/issues/3039185": "https://www.drupal.org/files/issues/2020-04-17/allow-field-blocks-to-display-label-in-layout-builder-3039185-22.patch",
@@ -53,6 +56,9 @@
             },
             "drupal/google_analytics": {
                 "https://www.drupal.org/project/google_analytics/issues/3246597": "https://www.drupal.org/files/issues/2021-11-25/google_analytics-3246597-7.patch"
+            },
+            "drupal/hook_event_dispatcher": {
+                "https://www.drupal.org/project/hook_event_dispatcher/issues/3307404": "https://git.drupalcode.org/project/hook_event_dispatcher/-/merge_requests/87.patch"  
             },
             "drupal/jsonapi_extras": {
                 "https://www.drupal.org/project/jsonapi_extras/issues/3232279": "https://www.drupal.org/files/issues/2021-09-10/fix-output-schema-3232279-3.patch"
