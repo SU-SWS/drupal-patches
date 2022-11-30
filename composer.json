@@ -40,7 +40,7 @@
                 "https://www.drupal.org/project/drupal/issues/3266341": "https://www.drupal.org/files/issues/2022-09-23/3266341-26.patch"
             },
             "drupal/decoupled_router": {
-                "Unable to resolve path on node in other language than default": "https://www.drupal.org/files/issues/2021-05-05/3111456-34.patch"
+                "Unable to resolve path on node in other language than default": "https://www.drupal.org/files/issues/2022-11-30/decouple_router-3111456-resolve-language-issue-58.patch"
             },
             "drupal/default_content": {
                 "https://www.drupal.org/project/default_content/issues/3160146": "https://git.drupalcode.org/project/default_content/-/merge_requests/15.patch",
