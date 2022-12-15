@@ -4,7 +4,9 @@
     "type": "metapackage",
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "drupal/core": "^9.5 || ^10.0"
+    },
     "conflict": {
         "drupal/views_infinite_scroll": "<2.0.0",
         "drupal/google_analytics": "<4.0.0",
