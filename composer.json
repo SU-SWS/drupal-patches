@@ -10,6 +10,7 @@
         "drupal/google_analytics": "<4.0.0",
         "drupal/field_encrypt": "<3.0.0",
         "drupal/config_ignore": "<3.0.0-beta1"
+        "drupal/core": "<9.5.0"
     },
     "extra": {
         "enable-patching": true,
@@ -37,7 +38,7 @@
                 "https://www.drupal.org/project/content_lock/issues/3307402": "https://git.drupalcode.org/project/content_lock/-/merge_requests/11.patch"  
             },
             "drupal/core": {
-                "https://www.drupal.org/project/drupal/issues/2807629": "https://www.drupal.org/files/issues/2021-07-09/2807629-45.patch",
+                "https://www.drupal.org/project/drupal/issues/2807629": "https://www.drupal.org/files/issues/2022-10-28/2807629-74.patch",
                 "https://www.drupal.org/project/drupal/issues/3039185": "https://www.drupal.org/files/issues/2020-04-17/allow-field-blocks-to-display-label-in-layout-builder-3039185-22.patch",
                 "https://www.drupal.org/project/drupal/issues/3106718": "https://www.drupal.org/files/issues/2020-01-16/3106718-image-hal-3.patch",
                 "https://www.drupal.org/project/drupal/issues/2577923": "https://www.drupal.org/files/issues/2020-06-11/2577923-128.patch",
