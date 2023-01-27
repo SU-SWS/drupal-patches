@@ -27,7 +27,7 @@
                 "https://www.drupal.org/project/ckeditor_blockimagepaste/issues/3272772": "https://www.drupal.org/files/issues/2022-04-14/prevent_js_alert_and_block_ms_word_paste-v2.patch"
             },
             "drupal/colorbox": {
-                "https://www.drupal.org/project/colorbox/issues/3278470": "https://git.drupalcode.org/project/colorbox/-/merge_requests/14.patch"  
+                "https://www.drupal.org/project/colorbox/issues/3278470": "https://git.drupalcode.org/project/colorbox/-/merge_requests/14.patch"
             },
             "drupal/config_ignore": {
                 "https://www.drupal.org/project/config_ignore/issues/3160360": "https://www.drupal.org/files/issues/2022-08-22/config_ignore-3160360-3.x.patch"
@@ -36,7 +36,7 @@
                 "https://www.drupal.org/project/config_readonly/issues/2892631": "https://www.drupal.org/files/issues/2018-04-01/config-readonly-2892631-18.patch"
             },
             "drupal/content_lock": {
-                "https://www.drupal.org/project/content_lock/issues/3307402": "https://git.drupalcode.org/project/content_lock/-/merge_requests/11.patch"  
+                "https://www.drupal.org/project/content_lock/issues/3307402": "https://git.drupalcode.org/project/content_lock/-/merge_requests/11.patch"
             },
             "drupal/core": {
                 "https://www.drupal.org/project/drupal/issues/2807629": "https://www.drupal.org/files/issues/2022-10-28/2807629-74.patch",
@@ -65,23 +65,26 @@
                 "https://www.drupal.org/project/fast_404/issues/2838359": "https://www.drupal.org/files/issues/2022-06-16/fast_404-honor_redirects-2838359-50.patch"
             },
             "drupal/field_encrypt": {
-                "https://www.drupal.org/project/field_encrypt/issues/3299175": "https://git.drupalcode.org/project/field_encrypt/-/merge_requests/31.patch"  
+                "https://www.drupal.org/project/field_encrypt/issues/3299175": "https://git.drupalcode.org/project/field_encrypt/-/merge_requests/31.patch"
             },
             "drupal/jsonapi_extras": {
                 "https://www.drupal.org/project/jsonapi_extras/issues/3232279": "https://www.drupal.org/files/issues/2021-09-10/fix-output-schema-3232279-3.patch"
             },
             "drupal/jsonapi_views": {
-                "https://www.drupal.org/project/jsonapi_views/issues/3213575": "https://www.drupal.org/files/issues/2022-05-30/pagination_number_offset_limit_support.patch"  
+                "https://www.drupal.org/project/jsonapi_views/issues/3213575": "https://www.drupal.org/files/issues/2022-05-30/pagination_number_offset_limit_support.patch"
             },
             "drupal/menu_link_weight": {
                 "https://www.drupal.org/project/menu_link_weight/issues/3099139": "https://www.drupal.org/files/issues/2019-12-05/menu_link_weight-target_blank-3099139.patch"
+            },
+            "drupal/page_cache_query_ignore": {
+                "https://www.drupal.org/project/page_cache_query_ignore/issues/3336993": "https://www.drupal.org/files/issues/2023-01-27/3336993-get_config.patch"
             },
             "drupal/paragraphs": {
                 "https://www.drupal.org/project/paragraphs/issues/2901390": "https://www.drupal.org/files/issues/2020-06-25/paragraphs-2901390-51.patch"
             },
             "drupal/redirect": {
                 "https://www.drupal.org/project/redirect/issues/3057250": "https://www.drupal.org/files/issues/2020-12-14/validation-issue-3057250-29.patch",
-                "https://www.drupal.org/project/redirect/issues/3018897": "https://www.drupal.org/files/issues/2022-10-20/redirect-n3018897-21.patch"  
+                "https://www.drupal.org/project/redirect/issues/3018897": "https://www.drupal.org/files/issues/2022-10-20/redirect-n3018897-21.patch"
             },
             "drupal/shs": {
                 "https://www.drupal.org/project/shs/issues/3241169": "https://www.drupal.org/files/issues/2022-02-28/shs-Error_saving_null_empty_value_after_2.0.0-rc1_update-3241169-36.patch",
