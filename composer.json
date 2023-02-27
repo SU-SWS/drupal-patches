@@ -8,10 +8,11 @@
         "drupal/core": "^9.5 || ^10.0"
     },
     "conflict": {
-        "drupal/views_infinite_scroll": "<2.0.0",
-        "drupal/google_analytics": "<4.0.0",
+        "drupal/config_ignore": "<3.0.0-beta1",
         "drupal/field_encrypt": "<3.0.0",
-        "drupal/config_ignore": "<3.0.0-beta1"
+        "drupal/focal_point": "<2.0.0-alpha1",
+        "drupal/google_analytics": "<4.0.0",
+       "drupal/views_infinite_scroll": "<2.0.0"
     },
     "extra": {
         "enable-patching": true,
@@ -66,6 +67,9 @@
             },
             "drupal/field_encrypt": {
                 "https://www.drupal.org/project/field_encrypt/issues/3299175": "https://git.drupalcode.org/project/field_encrypt/-/merge_requests/31.patch"
+            },
+            "drupal/focal_point": {
+                "https://www.drupal.org/project/focal_point/issues/3328807": "https://www.drupal.org/files/issues/2023-01-06/3328807-focal_point-image_width_when_no_image_to_crop.patch"
             },
             "drupal/jsonapi_extras": {
                 "https://www.drupal.org/project/jsonapi_extras/issues/3232279": "https://www.drupal.org/files/issues/2021-09-10/fix-output-schema-3232279-3.patch"
