@@ -46,8 +46,7 @@
                 "https://www.drupal.org/project/drupal/issues/2577923": "https://www.drupal.org/files/issues/2020-06-11/2577923-128.patch",
                 "https://www.drupal.org/project/drupal/issues/2353611": "https://www.drupal.org/files/issues/2019-10-15/drupal-link_uuid-2353611-262.patch",
                 "https://www.drupal.org/project/drupal/issues/3195543": "https://git.drupalcode.org/project/drupal/-/merge_requests/278.patch",
-                "https://www.drupal.org/project/drupal/issues/3143617": "https://www.drupal.org/files/issues/2020-07-07/3143617-28_0.patch",
-                "https://www.drupal.org/project/drupal/issues/3266341": "https://www.drupal.org/files/issues/2022-09-23/3266341-26.patch"
+                "https://www.drupal.org/project/drupal/issues/3143617": "https://www.drupal.org/files/issues/2020-07-07/3143617-28_0.patch"
             },
             "drupal/decoupled_router": {
                 "Unable to resolve path on node in other language than default": "https://www.drupal.org/files/issues/2022-11-30/decouple_router-3111456-resolve-language-issue-58.patch"
@@ -78,6 +77,7 @@
                 "https://www.drupal.org/project/jsonapi_views/issues/3213575": "https://www.drupal.org/files/issues/2022-05-30/pagination_number_offset_limit_support.patch"
             },
             "drupal/layout_paragraphs": {
+                "https://www.drupal.org/project/layout_paragraphs/issues/3350293": "https://www.drupal.org/files/issues/2023-03-24/3350293-multi-field-buttons.patch",
                 "https://www.drupal.org/project/layout_paragraphs/issues/3334527": "https://git.drupalcode.org/project/layout_paragraphs/-/merge_requests/117.patch"
             },
             "drupal/menu_link_weight": {
