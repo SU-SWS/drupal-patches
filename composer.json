@@ -14,7 +14,7 @@
         "drupal/google_analytics": "<4.0.0",
         "drupal/views_infinite_scroll": "<2.0.0",
         "drupal/menu_link": "<2.0.0",
-        "drupal/fast_404:" "<3.0.0-rc1"
+        "drupal/fast_404": "<3.0.0-rc1"
     },
     "extra": {
         "enable-patching": true,
