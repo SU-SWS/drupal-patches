@@ -13,7 +13,8 @@
         "drupal/focal_point": "<2.0.0-alpha1",
         "drupal/google_analytics": "<4.0.0",
         "drupal/views_infinite_scroll": "<2.0.0",
-        "drupal/menu_link": "<2.0.0"
+        "drupal/menu_link": "<2.0.0",
+        "drupal/fast_404:" "<3.0.0-rc1"
     },
     "extra": {
         "enable-patching": true,
@@ -61,9 +62,6 @@
             },
             "drupal/fakeobjects": {
                 "https://www.drupal.org/project/fakeobjects/issues/3002953": "https://www.drupal.org/files/issues/2020-06-22/fakeobjects-missing_plugin-3002953-5.patch"
-            },
-            "drupal/fast_404": {
-                "https://www.drupal.org/project/fast_404/issues/2838359": "https://www.drupal.org/files/issues/2022-06-16/fast_404-honor_redirects-2838359-50.patch"
             },
             "drupal/field_encrypt": {
                 "https://www.drupal.org/project/field_encrypt/issues/3299175": "https://git.drupalcode.org/project/field_encrypt/-/merge_requests/31.patch"
