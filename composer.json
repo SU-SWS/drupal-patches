@@ -22,6 +22,9 @@
             "drupal/anchor_link": {
                 "https://www.drupal.org/project/anchor_link/issues/2958532": "https://www.drupal.org/files/issues/2019-01-11/anchor_link-linkit-support_2958532.patch"
             },
+            "drupal/autologout": {
+                "https://www.drupal.org/project/autologout/issues/3372010": "https://git.drupalcode.org/project/autologout/-/merge_requests/34.patch"
+            },
             "drupal/auto_entitylabel": {
                 "https://www.drupal.org/project/auto_entitylabel/issues/3076302": "https://www.drupal.org/files/issues/2021-01-09/3076302-19.patch",
                 "https://www.drupal.org/project/auto_entitylabel/issues/3239799": "https://www.drupal.org/files/issues/2021-09-29/issue-3239799.patch"
