@@ -82,16 +82,13 @@
                 "https://www.drupal.org/project/menu_link_weight/issues/3099139": "https://www.drupal.org/files/issues/2019-12-05/menu_link_weight-target_blank-3099139.patch"
             },
             "drupal/migrate_source_csv": {
-                "https://www.drupal.org/project/migrate_source_csv/issues/3406342": "https://www.drupal.org/files/issues/2023-12-05/migrate_source_csv-3406342.patch"
+                "https://www.drupal.org/project/migrate_source_csv/issues/3406342": "https://www.drupal.org/files/issues/2023-12-05/migrate_source_csv-3406342-7.patch"
             },
             "drupal/page_cache_query_ignore": {
                 "https://www.drupal.org/project/page_cache_query_ignore/issues/3336993": "https://www.drupal.org/files/issues/2023-01-27/3336993-get_config.patch"
             },
             "drupal/paragraphs": {
                 "https://www.drupal.org/project/paragraphs/issues/2901390": "https://www.drupal.org/files/issues/2020-06-25/paragraphs-2901390-51.patch"
-            },
-            "drupal/path_redirect_import": {
-                "https://www.drupal.org/project/path_redirect_import/issues/3373025":"https://www.drupal.org/files/issues/2023-07-06/path_redirect_import-3373025.patch"
             },
             "drupal/redirect": {
                 "https://www.drupal.org/project/redirect/issues/3057250": "https://www.drupal.org/files/issues/2020-12-14/validation-issue-3057250-29.patch",
