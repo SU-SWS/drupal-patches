@@ -14,7 +14,8 @@
         "drupal/google_analytics": "<4.0.0",
         "drupal/views_infinite_scroll": "<2.0.0",
         "drupal/menu_link": "<2.0.0",
-        "drupal/fast_404": "<3.0.0-rc1"
+        "drupal/fast_404": "<3.0.0-rc1",
+        "drupal/migrate_tools": "<6.0.4"
     },
     "extra": {
         "enable-patching": true,
@@ -75,6 +76,9 @@
             },
             "drupal/paragraphs": {
                 "https://www.drupal.org/project/paragraphs/issues/2901390": "https://www.drupal.org/files/issues/2020-06-25/paragraphs-2901390-51.patch"
+            },
+            "drupal/path_redirect_import": {
+                "https://www.drupal.org/project/path_redirect_import/issues/3410487": "https://www.drupal.org/files/issues/2024-02-06/path_redirect_import-3410487-32.patch"
             },
             "drupal/redirect": {
                 "https://www.drupal.org/project/redirect/issues/3057250": "https://www.drupal.org/files/issues/2020-12-14/validation-issue-3057250-29.patch",
