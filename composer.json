@@ -98,6 +98,9 @@
             },
             "drupal/views_taxonomy_term_name_depth": {
                 "https://www.drupal.org/project/views_taxonomy_term_name_depth/issues/2877249": "https://git.drupalcode.org/project/views_taxonomy_term_name_depth/-/merge_requests/2.diff"
+            },
+            "drupal/webp": {
+                "https://www.drupal.org/project/webp/issues/3281606": "https://www.drupal.org/files/issues/2024-02-13/3281606-webp-17.patch"
             }
         }
     }
