@@ -8,6 +8,7 @@
         "drupal/core": "^10.1"
     },
     "conflict": {
+        "drupal/autologout": "<1.5.0",
         "drupal/config_ignore": "<3.0.0-rc1",
         "drupal/field_encrypt": "<3.0.0",
         "drupal/focal_point": "<2.0.0-alpha1",
@@ -20,7 +21,7 @@
         "enable-patching": true,
         "patches": {
             "drupal/autologout": {
-                "https://www.drupal.org/project/autologout/issues/3372010": "https://git.drupalcode.org/project/autologout/-/merge_requests/34.patch"
+                "https://www.drupal.org/project/autologout/issues/3372010": "https://www.drupal.org/files/issues/2024-05-28/autologout_3372010-25.patch"
             },
             "drupal/auto_entitylabel": {
                 "https://www.drupal.org/project/auto_entitylabel/issues/3076302": "https://www.drupal.org/files/issues/2021-01-09/3076302-19.patch",
@@ -46,6 +47,9 @@
             },
             "drupal/diff": {
                 "https://www.drupal.org/project/diff/issues/2882334#comment-13913401": "https://www.drupal.org/files/issues/2020-09-11/2882334-diff-missing_some_revisions-11.patch"
+            },
+            "drupal/encrypt": {
+                "https://www.drupal.org/project/encrypt/issues/2975098": "https://www.drupal.org/files/issues/2024-05-23/missing-route-canonical-2975098-5.patch"
             },
             "drupal/field_encrypt": {
                 "https://www.drupal.org/project/field_encrypt/issues/3299175": "https://git.drupalcode.org/project/field_encrypt/-/merge_requests/31.patch"
