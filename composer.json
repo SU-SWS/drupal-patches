@@ -10,6 +10,7 @@
     "conflict": {
         "drupal/autologout": "<1.5.0",
         "drupal/config_ignore": "<3.0.0-rc1",
+        "drupal/diff": "<1.3.0"
         "drupal/field_encrypt": "<3.0.0",
         "drupal/focal_point": "<2.0.0-alpha1",
         "drupal/google_analytics": "<4.0.0",
@@ -46,7 +47,7 @@
                 "https://www.drupal.org/project/default_content/issues/2698425": "https://www.drupal.org/files/issues/2020-09-02/default_content-integrity_constrait_violation-3162987-2.patch"
             },
             "drupal/diff": {
-                "https://www.drupal.org/project/diff/issues/2882334#comment-13913401": "https://www.drupal.org/files/issues/2020-09-11/2882334-diff-missing_some_revisions-11.patch"
+                "https://www.drupal.org/project/diff/issues/2882334#comment-13913401": "https://git.drupalcode.org/project/diff/-/merge_requests/42.patch"
             },
             "drupal/encrypt": {
                 "https://www.drupal.org/project/encrypt/issues/2975098": "https://www.drupal.org/files/issues/2024-05-23/missing-route-canonical-2975098-5.patch"
