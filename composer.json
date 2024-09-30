@@ -45,9 +45,6 @@
             "drupal/diff": {
                 "https://www.drupal.org/project/diff/issues/2882334#comment-13913401": "https://git.drupalcode.org/project/diff/-/merge_requests/42.patch"
             },
-            "drupal/encrypt": {
-                "https://www.drupal.org/project/encrypt/issues/2975098": "https://www.drupal.org/files/issues/2024-05-23/missing-route-canonical-2975098-5.patch"
-            },
             "drupal/field_encrypt": {
                 "https://www.drupal.org/project/field_encrypt/issues/3299175": "https://git.drupalcode.org/project/field_encrypt/-/merge_requests/31.patch"
             },
