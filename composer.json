@@ -49,7 +49,8 @@
                 "https://www.drupal.org/project/field_encrypt/issues/3299175": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/field_encrypt-3299175-3_2_0.patch"
             },
             "drupal/field_group": {
-                "https://www.drupal.org/project/field_group/issues/2969051": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/field_group-2969051.patch"
+                "https://www.drupal.org/project/field_group/issues/2969051": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/field_group-2969051.patch",
+                "https://www.drupal.org/project/field_group/issues/3226844": "https://www.drupal.org/files/issues/2024-10-25/activate-link-by-tab-3226844-12.patch"
             },
             "drupal/google_analytics": {
                 "https://www.drupal.org/project/google_analytics/issues/3373921": "https://www.drupal.org/files/issues/2023-08-07/google-analytics-issues-3373921-cannot-install-from-existing-config-11.patch"
