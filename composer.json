@@ -21,9 +21,6 @@
     "extra": {
         "enable-patching": true,
         "patches": {
-            "drupal/autologout": {
-                "https://www.drupal.org/project/autologout/issues/3372010": "https://www.drupal.org/files/issues/2024-05-28/autologout_3372010-25.patch"
-            },
             "drupal/colorbox": {
                 "https://www.drupal.org/project/colorbox/issues/3278470": "https://git.drupalcode.org/project/colorbox/-/merge_requests/14.patch"
             },
