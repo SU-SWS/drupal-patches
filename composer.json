@@ -67,9 +67,6 @@
             "drupal/response_code_condition": {
                 "https://www.drupal.org/project/response_code_condition/issues/3366575": "https://git.drupalcode.org/project/response_code_condition/-/merge_requests/2.patch"
             },
-            "drupal/search_api_algolia": {
-                "https://www.drupal.org/project/search_api_algolia/issues/3343995": "https://git.drupalcode.org/project/search_api_algolia/-/merge_requests/19.patch"
-            },
             "drupal/shield": {
                 "https://www.drupal.org/project/shield/issues/3304657": "https://www.drupal.org/files/issues/2025-02-05/shield-undefined_constant-3304657-23.patch",
                 "https://www.drupal.org/project/shield/issues/3479117": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/shield-3304657.patch",
