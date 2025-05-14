@@ -21,6 +21,9 @@
     "extra": {
         "enable-patching": true,
         "patches": {
+            "codeception/codeception": {
+                "Exit code on fatal error": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/codeception-fatal-error-exit.patch"
+            },
             "drupal/colorbox": {
                 "https://www.drupal.org/project/colorbox/issues/3278470": "https://git.drupalcode.org/project/colorbox/-/merge_requests/14.patch"
             },
