@@ -14,9 +14,10 @@
         "drupal/field_encrypt": "<3.2.0",
         "drupal/focal_point": "<2.0.0-alpha1",
         "drupal/google_analytics": "<4.0.0",
-        "drupal/views_infinite_scroll": "<2.0.0",
         "drupal/menu_link": "<2.0.0",
-        "drupal/fast_404": "<3.0.0-rc1"
+        "drupal/fast_404": "<3.0.0-rc1",
+        "drupal/views_infinite_scroll": "<2.0.0",
+        "drupal/views_taxonomy_term_name_depth": "<7.3.1"
     },
     "extra": {
         "enable-patching": true,
@@ -92,7 +93,7 @@
                 "D8CORE-2949: https://www.drupal.org/project/views_infinite_scroll/issues/3173923": "https://www.drupal.org/files/issues/2021-06-30/views_infinite_scroll-3173923-4.patch"
             },
             "drupal/views_taxonomy_term_name_depth": {
-                "https://www.drupal.org/project/views_taxonomy_term_name_depth/issues/2877249": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/views_taxonomy_term_name_depth-multiple-7_3_0.patch"
+                "https://www.drupal.org/project/views_taxonomy_term_name_depth/issues/2877249": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/views_taxonomy_term_name_depth-multiple-7_3_1.patch"
             },
             "drupal/webp": {
                 "https://www.drupal.org/project/webp/issues/3281606": "https://git.drupalcode.org/project/webp/-/merge_requests/33.patch"
