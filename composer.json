@@ -53,6 +53,12 @@
                 "https://www.drupal.org/project/field_group/issues/2969051": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/field_group-2969051.patch",
                 "https://www.drupal.org/project/field_group/issues/3226844": "https://www.drupal.org/files/issues/2024-10-25/activate-link-by-tab-3226844-12.patch"
             },
+            "drupal/field_validation": {
+                "https://www.drupal.org/project/field_validation/issues/3524477": "https://www.drupal.org/files/issues/2025-06-17/field_validation-issue-3524477-mr-15.patch"
+            },
+            "drupal/jsonapi_extras": {
+                "https://www.drupal.org/project/jsonapi_extras/issues/3452036": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/jsonapi_extras-3452036.patch"
+            },
             "drupal/jsonapi_views": {
                 "https://www.drupal.org/project/jsonapi_views/issues/3213575": "https://www.drupal.org/files/issues/2023-09-29/3213575-views_json-pagination-10.patch"
             },
@@ -66,6 +72,9 @@
             },
             "drupal/node_revision_delete": {
                 "https://www.drupal.org/project/node_revision_delete/issues/3363362": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/node_revision_delete-3363362.patch"
+            },
+            "drupal/pdb": {
+                "https://www.drupal.org/project/pdb/issues/3532359": "https://www.drupal.org/files/issues/2025-06-25/3532359-pdb_block_void_return_type_20250625_104646.patch"
             },
             "drupal/rabbit_hole": {
                 "https://www.drupal.org/project/rabbit_hole/issues/3463826": "https://www.drupal.org/files/issues/2024-07-30/3463826-rh-node-js-textContent-issue-3.patch"
