@@ -36,7 +36,8 @@
                 "Fix page parameter for JSON Api": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/core-pager-parameters.patch",
                 "https://www.drupal.org/project/drupal/issues/2353611": "https://www.drupal.org/files/issues/2019-10-15/drupal-link_uuid-2353611-262.patch",
                 "https://www.drupal.org/project/drupal/issues/3332063": "https://www.drupal.org/files/issues/2023-03-12/path-alias-not-available-3332063.patch",
-                "https://www.drupal.org/project/drupal/issues/3474018": "https://www.drupal.org/files/issues/2025-07-03/3474018-27.diff"
+                "https://www.drupal.org/project/drupal/issues/3474018": "https://www.drupal.org/files/issues/2025-07-03/3474018-27.diff",
+                "https://www.drupal.org/project/drupal/issues/3519949": "https://www.drupal.org/files/issues/2025-07-03/3519949-revert_3471459-7.diff"
             },
             "drupal/decoupled_router": {
                 "https://www.drupal.org/node/3111456 Unable to resolve path on node in other language than default": "https://www.drupal.org/files/issues/2024-07-11/decouple_router-3111456-resolve-language-issue-63--get-translation-re-rolled.patch"
