@@ -54,9 +54,6 @@
                 "https://www.drupal.org/project/field_group/issues/2969051": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/field_group-2969051.patch",
                 "https://www.drupal.org/project/field_group/issues/3226844": "https://www.drupal.org/files/issues/2024-10-25/activate-link-by-tab-3226844-12.patch"
             },
-            "drupal/field_validation": {
-                "https://www.drupal.org/project/field_validation/issues/3524477": "https://www.drupal.org/files/issues/2025-06-17/field_validation-issue-3524477-mr-15.patch"
-            },
             "drupal/google_tag": {
                 "https://www.drupal.org/project/google_tag/issues/3544836": "https://www.drupal.org/files/issues/2025-09-05/google_tag-fix-saving-id-3544836-4.patch"
             },
