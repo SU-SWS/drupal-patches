@@ -102,6 +102,7 @@
                 "https://www.drupal.org/project/views_taxonomy_term_name_depth/issues/2877249": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/views_taxonomy_term_name_depth-multiple-7_3_1.patch"
             },
             "drupal/webp": {
+                "https://www.drupal.org/project/webp/issues/3551539": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/webp-3551539-1-0-0.patch",
                 "https://www.drupal.org/project/webp/issues/3281606": "https://git.drupalcode.org/project/webp/-/merge_requests/33.patch"
             }
         }
