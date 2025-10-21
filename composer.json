@@ -17,6 +17,7 @@
         "drupal/google_analytics": "<4.0.0",
         "drupal/menu_link": "<2.0.0",
         "drupal/redirect": "<1.12.0",
+        "drupal/views_bulk_operations": "<4.4.2",
         "drupal/views_infinite_scroll": "<2.0.0",
         "drupal/views_taxonomy_term_name_depth": "<7.3.1"
     },
@@ -90,6 +91,9 @@
             },
             "drupal/shs": {
                 "https://www.drupal.org/project/shs/issues/3047595": "https://www.drupal.org/files/issues/2022-01-06/3047595-5.patch"
+            },
+            "drupal/views_bulk_operations": {
+                "https://www.drupal.org/project/views_bulk_operations/issues/3553577": "https://www.drupal.org/files/issues/2025-10-21/3553577-vbo-confirm-route.patch"
             },
             "drupal/views_infinite_scroll": {
                 "https://www.drupal.org/project/views_infinite_scroll/issues/3094488": "https://www.drupal.org/files/issues/2020-04-14/3094488-2.patch",
