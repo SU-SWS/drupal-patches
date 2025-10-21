@@ -57,9 +57,6 @@
             "drupal/google_tag": {
                 "https://www.drupal.org/project/google_tag/issues/3544836": "https://www.drupal.org/files/issues/2025-09-05/google_tag-fix-saving-id-3544836-4.patch"
             },
-            "drupal/jsonapi_extras": {
-                "https://www.drupal.org/project/jsonapi_extras/issues/3452036": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/jsonapi_extras-3452036.patch"
-            },
             "drupal/jsonapi_views": {
                 "https://www.drupal.org/project/jsonapi_views/issues/3213575": "https://www.drupal.org/files/issues/2023-09-29/3213575-views_json-pagination-10.patch"
             },
