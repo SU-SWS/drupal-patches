@@ -37,7 +37,8 @@
         "https://www.drupal.org/project/drupal/issues/2577923": "https://www.drupal.org/files/issues/2025-12-18/2577923-159.patch",
         "Fix page parameter for JSON Api": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/core-pager-parameters.patch",
         "https://www.drupal.org/project/drupal/issues/2353611": "https://www.drupal.org/files/issues/2019-10-15/drupal-link_uuid-2353611-262.patch",
-        "https://www.drupal.org/project/drupal/issues/3332063": "https://www.drupal.org/files/issues/2023-03-12/path-alias-not-available-3332063.patch"
+        "https://www.drupal.org/project/drupal/issues/3332063": "https://www.drupal.org/files/issues/2023-03-12/path-alias-not-available-3332063.patch",
+        "https://www.drupal.org/project/drupal/issues/3108528": "https://www.drupal.org/files/issues/2025-10-03/3108528-46.patch"
       },
       "drupal/default_content": {
         "https://www.drupal.org/project/default_content/issues/3160146": "https://git.drupalcode.org/project/default_content/-/merge_requests/15.patch",
