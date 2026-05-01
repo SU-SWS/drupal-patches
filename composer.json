@@ -68,7 +68,8 @@
                 "https://www.drupal.org/project/pdb/issues/3532359": "https://www.drupal.org/files/issues/2025-06-25/3532359-pdb_block_void_return_type_20250625_104646.patch"
             },
             "drupal/redirect": {
-                "https://www.drupal.org/project/redirect/issues/3018897": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/redirect-3018897.patch"
+                "https://www.drupal.org/project/redirect/issues/3018897": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/redirect-3018897.patch",
+                "https://www.drupal.org/project/redirect/issues/3588067": "https://www.drupal.org/files/issues/2026-05-01/3588067-param-not-converted.patch"
             },
             "drupal/response_code_condition": {
                 "https://www.drupal.org/project/response_code_condition/issues/3366575": "https://git.drupalcode.org/project/response_code_condition/-/merge_requests/2.patch"
