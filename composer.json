@@ -55,6 +55,9 @@
       "drupal/field_encrypt": {
         "https://www.drupal.org/project/field_encrypt/issues/3564188": "https://www.drupal.org/files/issues/2026-01-08/field_encrypt-3564188.patch"
       },
+      "drupal/flat_taxonomy": {
+        "https://www.drupal.org/project/flat_taxonomy/issues/3569637": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/flat_taxonomy-form_setting-3569637.patch"
+      },
       "drupal/google_tag": {
         "https://www.drupal.org/project/google_tag/issues/3544836": "https://www.drupal.org/files/issues/2025-09-05/google_tag-fix-saving-id-3544836-4.patch"
       },
