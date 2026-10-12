@@ -58,6 +58,10 @@
       "drupal/google_tag": {
         "https://www.drupal.org/project/google_tag/issues/3544836": "https://www.drupal.org/files/issues/2025-09-05/google_tag-fix-saving-id-3544836-4.patch"
       },
+      "drupal/graphql_compose": {
+        "Remove link language setting on field results": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/graphql_compose-link_language.patch",
+        "https://git.drupalcode.org/project/graphql_compose/-/work_items/3612640": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/graphql_compose-redirect_status-3612640.patch"
+      },
       "drupal/menu_link": {
         "https://www.drupal.org/project/menu_link/issues/3145735": "https://www.drupal.org/files/issues/2022-03-22/menu_link-empty-entity-error-3145735-7.patch",
         "https://www.drupal.org/project/menu_link/issues/3092282": "https://git.drupalcode.org/project/menu_link/-/merge_requests/8.patch"
