@@ -49,9 +49,6 @@
         "https://www.drupal.org/project/field_group/issues/2969051": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/field_group-2969051.patch",
         "https://www.drupal.org/project/field_group/issues/3226844": "https://www.drupal.org/files/issues/2024-10-25/activate-link-by-tab-3226844-12.patch"
       },
-      "drupal/field_encrypt": {
-        "https://www.drupal.org/project/field_encrypt/issues/3564188": "https://www.drupal.org/files/issues/2026-01-08/field_encrypt-3564188.patch"
-      },
       "drupal/flat_taxonomy": {
         "https://www.drupal.org/project/flat_taxonomy/issues/3569637": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/flat_taxonomy-form_setting-3569637.patch"
       },
