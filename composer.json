@@ -16,6 +16,7 @@
     "drupal/field_encrypt": "<4",
     "drupal/focal_point": "<2.0.0-alpha1",
     "drupal/google_analytics": "<4.0.0",
+    "drupal/google_tag": "<2.1.0",
     "drupal/menu_link": "<2.0.0",
     "drupal/redirect": "<1.12.0",
     "drupal/views_infinite_scroll": "<2.0.0",
@@ -48,9 +49,6 @@
       "drupal/field_group": {
         "https://www.drupal.org/project/field_group/issues/2969051": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/field_group-2969051.patch",
         "https://www.drupal.org/project/field_group/issues/3226844": "https://www.drupal.org/files/issues/2024-10-25/activate-link-by-tab-3226844-12.patch"
-      },
-      "drupal/google_tag": {
-        "https://www.drupal.org/project/google_tag/issues/3544836": "https://www.drupal.org/files/issues/2025-09-05/google_tag-fix-saving-id-3544836-4.patch"
       },
       "drupal/graphql_compose": {
         "Remove link language setting on field results": "https://sws-devguide.stanford.edu/sites/g/files/sbiybj17516/files/graphql_compose-link_language.patch",
